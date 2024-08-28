@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+numpy
+scipy
+itertools
+heapq
+matplotlib
